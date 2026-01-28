@@ -17,7 +17,7 @@ summary: "This paper shows that memorization of rare examples can meaningfully s
 
 ##### Download
 
-+ [Paper](Memorizing Long-tail Data Can Help Generalization Through Composition.pdf)
++ [Paper](https://arxiv.org/pdf/2510.16322)
 <!-- + [Online appendix](appendix1.pdf) -->
 <!-- + [Code and data](https://github.com/pmichaillat/feru) -->
 
