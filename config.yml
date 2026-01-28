@@ -68,8 +68,8 @@ params:
             #   url: books/
             # - name: Courses
             #   url: courses/
-            - name: Tags
-              url: tags/
+            # - name: Tags
+            #   url: tags/
             - name: Archive
               url: archive/
             - name: LinkedIn
@@ -80,8 +80,8 @@ params:
           url: CV_Haoyang_Ma.pdf
         - name: Email
           url: mailto:haoyang.ma@duke.edu
-        - name: Location
-          url: location/
+        # - name: Location
+        #   url: location/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=mhpgYJYAAAAJ&hl=en
         - name: GitHub
