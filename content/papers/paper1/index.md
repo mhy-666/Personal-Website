@@ -37,7 +37,7 @@ Deep learning has led researchers to rethink the relationship between memorizati
 
 ##### Citation
 
-Memorizing Long-tail Data Can Help Generalization Through Composition. ICLR 2026
+Memorizing Long-tail Data Can Help Generalization Through Composition. ICLR 2026,
 Mo Zhou*, Haoyang Ma*, Rong Ge (* equal contribution)
 
 ```latex
