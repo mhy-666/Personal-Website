@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Haoyang Ma
           subtitle: "I am a Master student from Duke, my research interest is LLMs and deep learning theory"
-          imageUrl: "picture.jpeg"
+          imageUrl: "Famous2056.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
